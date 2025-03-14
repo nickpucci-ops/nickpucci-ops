@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick Pucci
-- 👀 I’m interested in backend software engineering and machine learning
+- 👀 I’m interested in software engineering and machine learning
 - 🌱 I'm currently a senior Computer Science student
 - 🐘 Roll Tide Roll
 
